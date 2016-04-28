@@ -105,7 +105,7 @@
 		context.fillStyle = "#ff0000";
 		context.fillText(data[0]+"V", start_x + battery_width/4, start_y + battery_height/2-15, battery_width);
 		context.fillText(data[1]+"%", start_x + battery_width/4, start_y + battery_height/2+10, battery_width);
-		context.fillText(data[2]+"*C", start_x + battery_width/4, start_y + battery_height/2+37, battery_width);
+		context.fillText(data[2]+"℃", start_x + battery_width/4, start_y + battery_height/2+37, battery_width);
       
      
       
